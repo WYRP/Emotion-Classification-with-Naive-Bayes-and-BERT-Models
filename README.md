@@ -71,6 +71,13 @@ Contributions are welcome! If you have suggestions for improving the code or ext
    ```
 5. Open a pull request.
 
+## Contributors
+This project was developed as part of COMP551 by the following contributors:
+
+Edwin Zhou (260988798)
+Harry MacFarlane (260991258)
+Yongru Pan (261001758)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
